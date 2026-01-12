@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Piyush+Mishra;Backend+Engineer+%7C+System+Designer;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Piyush+Mishra;Backend+Engineer+%7C+System+Designer;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -107,7 +107,7 @@ Make sure you have created .github/workflows/snake.yml and run it manually.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush-mishra-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-mishra-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-mishra-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
@@ -115,7 +115,7 @@ Make sure you have created .github/workflows/snake.yml and run it manually.
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=piyush-mishra-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-mishra-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800"/>
 </div>
 
 ---
