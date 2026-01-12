@@ -107,7 +107,7 @@ Make sure you have created .github/workflows/snake.yml and run it manually.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush-mishra-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-mishra-01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-mishra-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
@@ -133,10 +133,10 @@ Make sure you have created .github/workflows/snake.yml and run it manually.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:mpiyushonline01@gmail.com">
+  <a href="mailto:mishrapiyush2001@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/piyush-mishra-dev/">
+  <a href="https://linkedin.com/in/piyush-mishra-01">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
